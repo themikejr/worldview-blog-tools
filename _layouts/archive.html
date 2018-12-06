@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1>What I've been writing</h1>
+
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+  <h2>{{ year.name }}</h2>
+    <ul>
+      {% for post in year.items %}
+        <li>
+          <a style="display: inline" class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-date">({{ post.date | date: "%b %-d, %Y" }})</span>
+        </li>
+      {% endfor %}
+    </ul>
+{% endfor %}
