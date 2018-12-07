@@ -25,6 +25,8 @@ url: "https://software.themikejr.com" # the base hostname & protocol for your si
 twitter_username: themikejr
 github_username:  themikejr
 
+google_analytics: UA-113905671-2
+
 # Build settings
 markdown: kramdown
 #theme: minima
