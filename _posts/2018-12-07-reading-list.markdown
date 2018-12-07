@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Reading List"
 categories: [reading]
+comments: true
 ---
 
 * [What's in a docker image?](https://cameronlonsdale.com/2018/11/26/whats-in-a-docker-image/)
