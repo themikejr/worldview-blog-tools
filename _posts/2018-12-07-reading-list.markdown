@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Weekly Reading List"
-categories: [reading]
+subtitle: Serverless architecture might have a shot
+categories: ["What I've Been Reading"]
 comments: true
 ---
 
