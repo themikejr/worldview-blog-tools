@@ -3,11 +3,12 @@ title: How does DNS work?
 subtitle: A primer for software developers who want to know more.
 layout: post
 categories: ["how things work"]
+comments: true
 ---
 
 Whether you realize it or not, DNS is a workhorse of the internet ecosystem. It provides the glue that allows someone like your grandma, (who knows that you want a pair of Adidas Ultraboost from footlocker.com for Christmas) to talk TCP with a server on the other side of the world.
 
-It's amazing when you think about it... 
+It's amazing when you think about it...
 
 Your grandma really is quite kind.
 
@@ -15,7 +16,7 @@ So, let's start from first principles and dig in to understand DNS a bit more.
 
 ## What exactly is DNS?
 
-> DNS, or the *Domain Name System* is an abstraction layer that maps the human-readable web addresses that we know and love to IP addresses. 
+> DNS, or the *Domain Name System* is an abstraction layer that maps the human-readable web addresses that we know and love to IP addresses.
 
 For a long time, that was about the extent of my knowledge of DNS. I knew that there were servers out in the ether of the internet that contained those mappings.  Later on, I learned that one could use `nslookup` to find existing mappings. Beyond that, I knew very little. The majority of the time this was enough, but every now and then I would hear someone mention an `A` record or a `CNAME` record and I couldn't contribute much to the conversation other than "Ah yes, that has something to do with DNS".  If you are like me, the things that you know that you don't know server as bread crumbs for the things that you want to learn.  Let's follow those breadcrumbs a bit.
 
@@ -48,6 +49,6 @@ A `CNAME` record is said to be "the canonical name for an alias" in [RFC 1035](h
 
 A `DNAME` record "provides redirection for a subtree of the domain" accord to its RFC ([RFC 6672](https://tools.ietf.org/html/rfc6672)). For this reason is it known as a *delegation* record.
 
-### `A`  Records 
+### `A`  Records
 
 `A` records are described as providing "a host address" in [RFC 1035](https://tools.ietf.org/html/rfc1035). `A` records are the meat and potatoes(?) of DNS. The provide a simple mapping from a name to an IP address.
