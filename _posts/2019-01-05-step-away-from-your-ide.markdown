@@ -68,8 +68,8 @@ I humbly suggest that this will happen not only with VCS tools but dependency ma
 
 It is my contention that this may be good for short-term productivity, but is almost certainly bad for long-term productivity.
 
-Come back soon to check out the next part in this series where I explain why building my own development environment was so beneficial for me.
+Take a look at [part 2 of this series]({{ site.baseurl }}{% post_url 2019-01-12-benefits-of-stepping-away-from-your-ide %}) to understand why stepping way from an IDE was so beneficial to me.
 
 ---
 
-Do you completely disagree with me? Excellent! Please let me know in the comments. Otherwise, stay tuned for Part 2 of this series: *The Benefits of Building Your Own IDE*.
+Do you completely disagree with me? Excellent! Please let me know in the comments.
