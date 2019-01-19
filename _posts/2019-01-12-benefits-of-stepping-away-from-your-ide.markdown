@@ -23,9 +23,9 @@ For example,
 
 I next noticed that when a production issue arose I had become much more comfortable with jumping on servers and getting to the bottom of an issue. When I was purely an IDE user, the thought of understanding how an application was running on in our target environment seemed much more foreign than the comfort of my Eclipse's GUI. Working primarily in a terminal and interacting with tools via their CLI led me to be much more comfortable with ops-related tasks. It also helped me come to understand the OS I was using more thoroughly.
 
-### 3. Become a technical resource
+### 3. Becoming a technical resource
 
-After I noticed my increased ability with individual tools and improved debugging skills in my day to day software development activities, a third interesting benefit began to manifest — people began to come to me when they had problems with an individial tool. This may seem like an obvious progression as you read this blog post, but as it was happening to me, I was not planning to become 'the Git guy' when I started using Git directly via it's CLI but nonetheless from time to time coworkers would come to me with a problem and much to my surprise I was often able to help them.
+After I noticed my increased ability with individual tools and improved debugging skills in my day to day software development activities, a third interesting benefit began to manifest — people began to come to me when they had problems with an individial tool. This may seem like an obvious progression as you read this blog post, but as it was happening to me, I was not planning to become 'the Git guy' when I started using Git directly via its CLI but nonetheless from time to time coworkers would come to me with a problem and much to my surprise I was often able to help them.
 
 ### 4. Adaptability
 
