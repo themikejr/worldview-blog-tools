@@ -8,6 +8,9 @@ layout: default
 
   {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
 
+  {% include mailchimp.html %}
+
+  <p></p>
   <h2>Recent Posts:</h2>
   <ul class="post-list">
     {% for post in paginator.posts limit:3 %}
@@ -37,5 +40,4 @@ layout: default
   </ul>
 
   {% include pagination.html %}
-
 </div>
