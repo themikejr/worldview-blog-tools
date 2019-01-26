@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mike Brinker
+title: Mike Brinker on Software Development
 author: Mike Brinker
 email: themikejr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Thoughts, opinions, proposals, and lessons-learned
+  from the mind of a Software Developer.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://software.themikejr.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: themikejr
@@ -32,7 +32,6 @@ disqus:
 
 # Build settings
 markdown: kramdown
-#theme: minima
 
 theme: jekyll-whiteglass
 plugins:
