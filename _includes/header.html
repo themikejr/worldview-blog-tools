@@ -3,7 +3,7 @@
   <div class="wrapper">
 
     <img style="float:left;padding-right:5px" src="/assets/logo.png" height="45" width=45>
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.short_title | escape }}</a>
 
     <nav class="site-nav">
       {% for link in site.data.navigation.main %}
