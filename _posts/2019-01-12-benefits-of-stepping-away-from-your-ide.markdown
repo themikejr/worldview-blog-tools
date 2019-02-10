@@ -39,4 +39,4 @@ In the end I was often pleasantly surprised to find that from stack to stack, sm
 
 ---
 
-So, are you sold on the benefits of ditching your IDE yet? If so, come back soon for the last post in this series where I give the practical steps that I followed to step away from my IDE. In the meantime, let me know in the comments if you have found similar benefits.
+So, are you sold on the benefits of ditching your IDE yet? Read my [step-by-step guide to getting rid of your IDE]({{ site.baseurl }}{% post_url 2019-02-10-build-a-development-environment %}). Otherwise, let me know in the comments if you have found similar benefits.
