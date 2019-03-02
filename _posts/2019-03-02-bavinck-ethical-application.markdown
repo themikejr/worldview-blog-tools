@@ -1,0 +1,11 @@
+---
+title: Bavinck's Use of the Law
+subtitle: A law of universally valid rules vs. duty inferred from the law in given cases
+layout: post
+categories: ["Quotes"]
+comments: true
+---
+
+> But there is something else as well: the moral law that confronts us in the Decalogue, in the Sermon on the Mount, and further throughout the Old and New Testaments is not a case of "precept upon precept, line upon line, here a little, there a little" [Isa. 28:10, 13], but comprises universal norms, great principles that leave a lot of room for individual application and summon every believer to examine what in a given situation would be good for them be the good, acceptable, and perfect will of God (Rom. 12:2). Since the moral law is not a code of articles we merely have to look up in order, from moment to moment, to know exactly what we must do, there is in its domain a freedom that may not be curbed by human ordinances but must — precisely to safeguard the character of the moral life — be recognized and maintained. On the one hand that freedom includes the permissible, the adiaphora, and on the other what Rome calls the "counsels". Error begins in both schools of thought when the adiaphora and the counsels are located outside or alongside of, below or above, the moral law and are therefore detached from the moral life. There is no right or reason for this either in the one or in the other case. There are cases in which what is in itself permissible becomes impermissible (Rom. 14:21, 23; 1 Cor. 8:13; 10:23); and there are also circumstances from which abstention from marriage (Matt. 19:11; 1 Cor. 7:7), giving up remuneration (1 Cor. 9:14- 19), the renunciation of all earthly goods (Matt. 19:21), or the like is a duty. But in "doing" these good works, one is not accomplishing anything that is outside of the moral law or surpasses it. For there is a difference between a law that furnishes universally valid rules and a duty that is inferred from the law in a given case for everyone personally. Those who lose sight of this and assume the existence of a series of good works that really lie outside of and surpass the moral law fail to honor its unity and universality and degrade it.
+>
+> Herman Bavinck, Reformed Dogmatics Vol. 4, pp. 259 - 260
