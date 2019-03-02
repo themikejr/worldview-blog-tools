@@ -18,14 +18,14 @@ short_title: Mike Brinker
 author: Mike Brinker
 email: themikejr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Musing, thinking, and wondering about 
+  Musing, thinking, and wondering about
   theology, philosophy, and the Bible.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://worldview.themikejr.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: themikejr
 
-google_analytics: UA-113905671-2
+google_analytics: UA-113905671-3
 
 disqus:
   shortname: themikejr
